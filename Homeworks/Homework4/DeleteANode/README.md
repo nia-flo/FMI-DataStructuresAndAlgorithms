@@ -18,7 +18,8 @@ Complete the *deleteNode* function in the editor below.
 - int position: the position of the node to remove
 
 ### Returns
-- SinglyLinkedListNode pointer: a reference to the head of the modified list 
+
+SinglyLinkedListNode pointer: a reference to the head of the modified list 
 
 ### Input Format
 
