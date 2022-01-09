@@ -58,7 +58,7 @@ vector<Edge> Kruskal(int nodesCount, vector<Edge>& edges)
 
 int main()
 {
-	//nodes are 0, 1, .., N, where N is nodesCount
+	//nodes are 0, 1, .., N-1, where N is nodesCount
 
 	int nodesCount, edgesCount;
 	cin >> nodesCount >> edgesCount;
